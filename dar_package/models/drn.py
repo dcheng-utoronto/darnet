@@ -18,7 +18,7 @@ BatchNorm = nn.BatchNorm2d
 # __all__ = ['DRN', 'drn26', 'drn42', 'drn58']
 
 
-webroot = 'https://tigress-web.princeton.edu/~fy/drn/models/'
+webroot = 'http://dl.yf.io/drn/'
 
 model_urls = {
     'resnet50': 'https://download.pytorch.org/models/resnet50-19c8e357.pth',
